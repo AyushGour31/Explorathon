@@ -1,2 +1,1 @@
-# Explorathon
-Explorathon is like hackathon
+# todo-beginner
